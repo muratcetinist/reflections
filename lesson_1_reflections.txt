@@ -1,0 +1,20 @@
+deneme. iki versiyon arasındaki farkları diff ile bulmak üzerine bir şeyler.
+teşekkürler.
+
+burada da başka bir ödev var, yine bir şeyler bir şeyler yaz. teşekkürler.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+manuel yaratınca zamanlaması sana kalıyor, sıçabilirsin. otomatik kaydederse saçma sapan yerlerde kaydediyor. açıcan bakıcan son yaptığın şey ne belli değil.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+hepsini topluca karşılaştırıyor falan filan.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log ile tüm commitleri listele. git diff ile aralarındaki farkları karşılaştır.
+
+How might using version control make you more confident to make changes that could break something?
+
+sıçsam da öncekine bakar toparlarım yaa dedirtiyor.
