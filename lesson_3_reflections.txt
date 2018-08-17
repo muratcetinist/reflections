@@ -6,3 +6,9 @@ birden fazla kişiyle/ bilgisayarla çalışırken.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 otomatik atarsa istemediğim bir şeyi atabilir, istemediğim bir zamanda atabilir.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork: birinin reposunu kendi github'ına alıp kafana göre kullanmak için.
+clone: github'daki bir repoyu bilgisayarına çekmek için.
+branch: giden bir projede deneme yapmak, ya da özellik eklemek için dallandırmak için.
