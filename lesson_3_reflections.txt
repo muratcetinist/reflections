@@ -20,3 +20,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 geriye gitmek daha kolay. değişiklik yapmak. batırmama güvencesi.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+master güvende kalsın, ben köşede at koşturayım, fikir alayım dediğinde separate branch'e geç. yok yaptığım değişiklik on numara oldu, yapıştır dersen master'a ekle. diğerleri düşünsün.
